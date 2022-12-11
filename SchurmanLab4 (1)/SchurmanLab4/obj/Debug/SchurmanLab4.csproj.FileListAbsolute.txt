@@ -1,0 +1,11 @@
+C:\Users\Kit8B\Downloads\SchurmanLab4\bin\Debug\SchurmanLab4.exe.config
+C:\Users\Kit8B\Downloads\SchurmanLab4\bin\Debug\SchurmanLab4.exe
+C:\Users\Kit8B\Downloads\SchurmanLab4\bin\Debug\SchurmanLab4.pdb
+C:\Users\Kit8B\Downloads\SchurmanLab4\obj\Debug\SchurmanLab4.csproj.AssemblyReference.cache
+C:\Users\Kit8B\Downloads\SchurmanLab4\obj\Debug\SchurmanLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kit8B\Downloads\SchurmanLab4\obj\Debug\SchurmanLab4.Form1.resources
+C:\Users\Kit8B\Downloads\SchurmanLab4\obj\Debug\SchurmanLab4.Properties.Resources.resources
+C:\Users\Kit8B\Downloads\SchurmanLab4\obj\Debug\SchurmanLab4.csproj.GenerateResource.cache
+C:\Users\Kit8B\Downloads\SchurmanLab4\obj\Debug\SchurmanLab4.csproj.CoreCompileInputs.cache
+C:\Users\Kit8B\Downloads\SchurmanLab4\obj\Debug\SchurmanLab4.exe
+C:\Users\Kit8B\Downloads\SchurmanLab4\obj\Debug\SchurmanLab4.pdb
