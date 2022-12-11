@@ -23,7 +23,7 @@ namespace SchurmanLab4
         public void ResetTrip() //Hides Trip Information groupbox, checks Cuba radio button, blanks out People textbox and Price label, checks Credit Card radio button, and focuses the cursor on the People textbox
         {
             grpTripInformation.Hide();
-            radCuba.Checked = //true;
+            radCuba.Checked = true;
             txtPeople.Text = "";
             lblPrice.Text = "";
             radCreditCard.Checked = true;
@@ -34,13 +34,13 @@ namespace SchurmanLab4
         {
             if (radFlorida.Checked == true)
             {
-                //chkFlightIncluded.Checked = false;
+                chkFlightIncluded.Checked = false;
                 chkFlightIncluded.Checked = true;
             }
                 
             else
             {
-                //chkFlightIncluded.Checked = true;
+                chkFlightIncluded.Checked = true;
                 chkFlightIncluded.Checked = false;
             }
                 
@@ -78,7 +78,7 @@ namespace SchurmanLab4
 
         private void btnBook_Click(object sender, EventArgs e) //On Book button click, it displays one of two error messages when the People textbox input is invalid. If the People textbox input is valid, it does the equation, displays the price in the Price label below, and displays the amount of people, the location, optionally displays flight included if the Flight checkbox was selected, optionally displays if the discount was applied if the Cash radio button was selected, and displays the price in the Trip Information groupbox. It also makes it so you can't interact with anything within the Book groupbox when the Book button is pressed. Also also, displays a special message if People was 1 or 3
         {
-            //int people;
+            int people;
             double moneyModifier;
             double locationModifier;
             double answer = 0;
